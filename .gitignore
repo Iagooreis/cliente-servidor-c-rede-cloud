@@ -1,0 +1,20 @@
+# Arquivos de build
+*.o
+*.out
+*.exe
+
+# Logs
+*.log
+
+# Backups temporários
+*~
+*.swp
+
+# IDEs
+.vscode/
+.clangd/
+.idea/
+
+# Binários gerados
+servidor
+cliente
