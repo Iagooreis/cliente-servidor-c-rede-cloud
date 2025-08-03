@@ -1,0 +1,6 @@
+apresentacao.pptx
+arquivo1.txt
+bye
+documento.pdf
+foto.jpg
+planilha.xlsx
